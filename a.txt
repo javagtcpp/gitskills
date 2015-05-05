@@ -2,5 +2,6 @@ Creating a estan branch is quick & simple.
 Add with --no-ff commit
 Add with fast-forward mode merge.
 use git stash. list apply drop pop.
-Add by my brother.
+lorem
+some text here.
 Another text code.
